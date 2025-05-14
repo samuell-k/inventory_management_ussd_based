@@ -59,7 +59,7 @@ Before running the project, make sure the following tools are installed:
 1.	Download the Project Files
 o	Use project folder directly OR
 o	Or use hosted on GitHub clone the repository using:
-git clone https://github.com/yourusername/ussd-inventory-app.git
+git clone [https://github.com/yourusername/ussd-inventory-app.git](https://github.com/samuell-k/inventory_management_ussd_based)
 2.	Move Project Folder into XAMPP
 o	Copy the entire min-ussd folder into:
 o	C:\xampp\htdocs\
